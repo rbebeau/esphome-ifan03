@@ -5,7 +5,7 @@ The following is an example YAML configuration for the ifan03 component
 
 ```yaml
 external_components:
-  - source: github://rbebeau/espfan-ifan03
+  - source: github://rbebeau/esphome-ifan03
     components: [ ifan03 ]
     #refresh: 0s
 
